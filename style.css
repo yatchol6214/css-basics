@@ -56,7 +56,7 @@ code {
 
 
    a:link {
-    color:green;
+    color:#33cc33;
 }
 
 
@@ -71,5 +71,5 @@ a:hover {
 
 
 a:active {
-    color: black;
+    color: blue;
 }
